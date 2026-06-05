@@ -34,8 +34,8 @@ I am a technology professional with over 4 years of experience in Full Stack, Mo
 
 ---
 
-### 🗄️ Legacy Profile & Past Work
-- 📌 I previously maintained an older GitHub account at [thdev-matheus](https://github.com/thdev-matheus) which contains some of my earlier public web and mobile development applications. Due to lost access credentials, that profile is now an archived look at my past development journey.
+### Legacy Profile & Past Work
+- I previously maintained an older GitHub account at [thdev-matheus](https://github.com/thdev-matheus) which contains some of my earlier public web and mobile development applications. Due to lost access credentials, that profile is now an archived look at my past development journey.
 
 ---
 
