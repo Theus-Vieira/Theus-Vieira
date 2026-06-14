@@ -1,4 +1,5 @@
 # Hi, I'm Matheus Vieira!
+![CodeWars](https://www.codewars.com/users/Theus-Vieira/badges/small)
 
 ### Software Developer transitioning into Cybersecurity, Digital Forensics and Application Security (AppSec)
 
